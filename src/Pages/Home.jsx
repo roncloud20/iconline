@@ -4,7 +4,9 @@ export default function Home() {
     return (
         <>
         <Header/>
-        <h1 className="">Welcome To Iconline Online Store</h1>
+        <main className="">
+            <h1 className="">Welcome To Iconline Online Store</h1>
+        </main>
         </>
     )
 }
